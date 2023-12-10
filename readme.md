@@ -1,4 +1,13 @@
-https://www.elderberry-inn.com/icons
+# Elderberry Inn Icons
+These icons are designed by (Anaislalovi)[https://www.instagram.com/anaislalovi/] for (Elderberry Inn)[https://www.elderberry-inn.com/], a 5e virtual tabletop application.
+
+The Original icons from their page, https://www.elderberry-inn.com/icons, are only available as a tff icon font. I've converted them into SVGs and labeled them for easier use.
+
+Icons files under /icons use `currentColor` as fill, while /white-icons use `white` to be easier to see on this page.
+
+
+## License
+The icons are availbale under (CC0 1.0 Universal)[https://creativecommons.org/publicdomain/zero/1.0/deed.en].
 
 ## Icon Index
 <h3 id="grappled.svg">grappled</h3>
