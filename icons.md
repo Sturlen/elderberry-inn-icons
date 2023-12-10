@@ -1,6 +1,3 @@
-https://www.elderberry-inn.com/icons
-
-## Icons
 <img src="/icons-white/0.svg" width="32" height="32"/>
 <img src="/icons-white/1.svg" width="32" height="32"/>
 <img src="/icons-white/2.svg" width="32" height="32"/>
