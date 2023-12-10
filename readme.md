@@ -1,7 +1,7 @@
 # Elderberry Inn Icons
 These icons are designed by [Anaislalovi](https://www.instagram.com/anaislalovi/) for [Elderberry Inn](https://www.elderberry-inn.com/), a 5e virtual tabletop application.
 
-The Original icons from their page, https://www.elderberry-inn.com/icons, are only available as a tff icon font. I've converted them into SVGs and labeled them for easier use.
+The Original icons from their page, https://www.elderberry-inn.com/icons, are only available as a tff icon font. I've converted them into SVGs and labeled them for easier use. Used the method described in [barrd.dev's blog](https://barrd.dev/article/convert-all-glyphs-of-a-font-to-individual-svg-files/)
 
 Icons files under /icons use `currentColor` as fill, while /white-icons use `white` to be easier to see on this page.
 
